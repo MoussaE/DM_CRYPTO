@@ -1,0 +1,4 @@
+Pour executer le programme taper la commande make 
+
+pour changer les entiers à  tester veuillez modifier  la valeur du Nombre_a_Tester 
+dans le makefile
